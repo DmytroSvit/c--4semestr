@@ -1,0 +1,4 @@
+ID::00000001 WebsiteUrl::https://translate.google.com/ StartDate::2021-10-22 Enddate::2022-06-01 prIcE::210000,66 Title::Translater photoUrl::https://translate.google.com/?hl=uk&tab=TT transactionnumber::AA-123-BB/11
+Id::00000002 websiteUrl::https://translate.google.com/ startdate::2022-04-02 enddate::2022-07-01 price::10000 title::Translater2 photoUrl::https://translate.google.com/?hl=uk&tab=TT transactionnumber::AA-123-BB/12
+id::00000003 websiteUrl::https://translate.google.com/ StartDate::2022-01-02 EndDate::2022-08-01 price::1000 title::Translater3 photoUrl::https://translate.google.com/?hl=uk&tab=TT transactionnumber::AA-123-BB/13
+id::00000004 websiteUrl::https://translate.google.com/ StartDate::2022-01-02 EndDate::2022-08-01 price::1400 title::Translater4 photoUrl::https://translate.google.com/?hl=uk&tab=TT transactionnumber::AA-123-BB/13
